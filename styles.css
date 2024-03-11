@@ -1,0 +1,28 @@
+.seccion_titulo
+{background-color: #F8D6F6;
+}
+
+h1 
+{ color:#2C363F
+}
+
+.seccion_servicio{
+    background-color: #2C363F;
+    color: #F8D6F6;
+
+}
+.seccion_trabajos{
+    background-color: #F8D6F6;
+    color: #2C363F;
+}
+.seccion_certificados{
+    background-color: #2C363F;
+    color: #F8D6F6;
+}
+.seccion_imagen_titulo {
+    width: 250px;
+    height: 300px;
+}
+.Seccion_navbar {
+    background-color: #F8D6F6;
+}
